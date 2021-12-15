@@ -1,0 +1,8 @@
+node_modules
+src
+pulic
+lib
+.gitignore
+.editorconfig
+.eslintignore
+.eslintrc.js
